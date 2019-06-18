@@ -8,7 +8,7 @@ class works(FloatLayout):
     def __init__(self):
         super().__init__()
 
-        self.camobj = Camera(play=True, index=0, resolution=(1000,1000))
+        self.camobj = Camera(play=True, index=0, resolution=(720,720))
         self.add_widget(self.camobj)
 
         self.flip = Button(text="Switch to different camera")
@@ -23,8 +23,8 @@ class works(FloatLayout):
         self.add_widget(self.flip)
 
     def take(self, f):
-        self.camobj.export_to_png('lower.png')
-        print('work')
+        self.camobj.export_to_png('lower.jpeg')
+
 
     def camflip(self, f):
         if self.camobj.index == 0:

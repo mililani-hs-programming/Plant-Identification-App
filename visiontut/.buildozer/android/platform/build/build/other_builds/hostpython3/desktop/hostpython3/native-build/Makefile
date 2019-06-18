@@ -28,10 +28,10 @@ MODLIBS=           $(LOCALMODLIBS) $(BASEMODLIBS)
 
 # === Variables set by configure
 VERSION=	3.7
-srcdir=		/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/hostpython3/desktop/hostpython3
-VPATH=		/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/hostpython3/desktop/hostpython3
-abs_srcdir=	/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/hostpython3/desktop/hostpython3
-abs_builddir=	/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/hostpython3/desktop/hostpython3/native-build
+srcdir=		/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/hostpython3/desktop/hostpython3
+VPATH=		/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/hostpython3/desktop/hostpython3
+abs_srcdir=	/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/hostpython3/desktop/hostpython3
+abs_builddir=	/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/hostpython3/desktop/hostpython3/native-build
 
 
 CC=		gcc -pthread

@@ -70,7 +70,7 @@ if test ! -n "$*"; then
 fi
 
 makexp=`dirname $0`/makexp_aix
-test -x "${makexp}" || makexp="/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Modules/makexp_aix"
+test -x "${makexp}" || makexp="/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Modules/makexp_aix"
 
 # Check for existence of compiler.
 CC=$1; shift

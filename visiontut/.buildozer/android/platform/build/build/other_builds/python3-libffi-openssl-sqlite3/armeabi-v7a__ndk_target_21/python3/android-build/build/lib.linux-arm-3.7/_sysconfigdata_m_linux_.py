@@ -19,16 +19,16 @@ build_time_vars = {'ABIFLAGS': 'm',
               '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
               '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
               '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-              '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-              '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-              '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
+              '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+              '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+              '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
               '-march=armv7-a -Wl,--fix-cortex-a8  '
               '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
               '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
               '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-              '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-              '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-              '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1',
+              '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+              '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+              '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1',
  'BUILDEXE': '',
  'BUILDPYTHON': 'python',
  'BUILD_GNU_TYPE': 'x86_64-pc-linux-gnu',
@@ -69,24 +69,24 @@ build_time_vars = {'ABIFLAGS': 'm',
                        '-D__ANDROID_API__=21 -isystem '
                        '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
                        '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-                       '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-                       '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-                       '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-                       '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-                       '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl',
+                       '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+                       '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+                       '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+                       '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+                       '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl',
  'CONFIGURE_LDFLAGS': '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
                       '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
                       '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-                      '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-                      '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-                      '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
+                      '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+                      '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+                      '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
                       '-march=armv7-a -Wl,--fix-cortex-a8',
  'CONFIG_ARGS': "'--host=arm-linux-androideabi' '--build=x86_64-pc-linux-gnu' "
                 "'--enable-shared' '--enable-ipv6' 'ac_cv_file__dev_ptmx=yes' "
                 "'ac_cv_file__dev_ptc=no' '--without-ensurepip' "
                 "'ac_cv_little_endian_double=yes' '--prefix=/usr/local' "
                 "'--exec-prefix=/usr/local' "
-                "'--with-openssl=/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1' "
+                "'--with-openssl=/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1' "
                 "'build_alias=x86_64-pc-linux-gnu' "
                 "'host_alias=arm-linux-androideabi' "
                 "'CC=/home/kobe/.buildozer/android/platform/android-ndk-r17c/toolchains/llvm/prebuilt/linux-x86_64/bin/clang "
@@ -101,49 +101,49 @@ build_time_vars = {'ABIFLAGS': 'm',
                 '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
                 '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
                 '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-                '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-                '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-                "-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1' "
+                '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+                '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+                "-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1' "
                 "'LIBS= -lsqlite3 -lffi -lcrypto1.1 -lssl1.1' 'CPPFLAGS= -fPIC "
                 '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot '
                 '-D__ANDROID_API__=21 -isystem '
                 '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
                 '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-                "-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl' "
-                "'PKG_CONFIG_PATH=/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi'",
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+                "-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl' "
+                "'PKG_CONFIG_PATH=/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi'",
  'CONFINCLUDEDIR': '/usr/local/include',
  'CONFINCLUDEPY': '/usr/local/include/python3.7m',
  'COREPYTHONPATH': '',
- 'COVERAGE_INFO': '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build/coverage.info',
- 'COVERAGE_REPORT': '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build/lcov-report',
+ 'COVERAGE_INFO': '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build/coverage.info',
+ 'COVERAGE_REPORT': '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build/lcov-report',
  'COVERAGE_REPORT_OPTIONS': '--no-branch-coverage --title "CPython lcov '
                             'report"',
  'CPPFLAGS': '-IObjects -IInclude -IPython -I. '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Include '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Include '
              '-fPIC '
              '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot '
              '-D__ANDROID_API__=21 -isystem '
              '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
              '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl  '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl  '
              '-fPIC '
              '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot '
              '-D__ANDROID_API__=21 -isystem '
              '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
              '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-             '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl',
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+             '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl',
  'CXX': 'arm-linux-androideabi-c++',
  'DESTDIRS': '/usr/local /usr/local/lib /usr/local/lib/python3.7 '
              '/usr/local/lib/python3.7/lib-dynload',
@@ -600,16 +600,16 @@ build_time_vars = {'ABIFLAGS': 'm',
  'LDFLAGS': '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
             '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
             '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-            '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-            '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-            '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
+            '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+            '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+            '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
             '-march=armv7-a -Wl,--fix-cortex-a8  '
             '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
             '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
             '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-            '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-            '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-            '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1',
+            '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+            '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+            '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1',
  'LDLAST': '',
  'LDLIBRARY': 'libpython3.7m.so',
  'LDLIBRARYDIR': '',
@@ -620,21 +620,21 @@ build_time_vars = {'ABIFLAGS': 'm',
              '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
              '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
              '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-             '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-             '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-             '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
+             '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+             '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+             '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
              '-march=armv7-a -Wl,--fix-cortex-a8  '
              '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
              '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
              '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-             '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-             '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-             '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1',
+             '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+             '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+             '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1',
  'LDVERSION': '3.7m',
  'LIBC': '',
  'LIBDEST': '/usr/local/lib/python3.7',
  'LIBDIR': '/usr/local/lib',
- 'LIBFFI_INCLUDEDIR': '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include',
+ 'LIBFFI_INCLUDEDIR': '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include',
  'LIBM': '-lm',
  'LIBOBJDIR': 'Python/',
  'LIBOBJS': '',
@@ -665,7 +665,7 @@ build_time_vars = {'ABIFLAGS': 'm',
            '/home/kobe/.buildozer/android/platform/android-ndk-r17c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64',
  'MAJOR_IN_MKDEV': 0,
  'MAJOR_IN_SYSMACROS': 1,
- 'MAKESETUP': '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Modules/makesetup',
+ 'MAKESETUP': '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Modules/makesetup',
  'MANDIR': '/usr/local/share/man',
  'MKDIR_P': '/bin/mkdir -p',
  'MODBUILT_NAMES': 'posix  errno  pwd  _sre  _codecs  _weakref  _functools  '
@@ -693,8 +693,8 @@ build_time_vars = {'ABIFLAGS': 'm',
  'MVWDELCH_IS_EXPRESSION': 0,
  'NO_AS_NEEDED': '-Wl,--no-as-needed',
  'OBJECT_OBJS': '\\',
- 'OPENSSL_INCLUDES': '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include',
- 'OPENSSL_LDFLAGS': '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/lib',
+ 'OPENSSL_INCLUDES': '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include',
+ 'OPENSSL_LDFLAGS': '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/lib',
  'OPENSSL_LIBS': '-lssl -lcrypto',
  'OPT': '-DNDEBUG -g -fwrapv -O3 -Wall',
  'OTHER_LIBTOOL_OPT': '',
@@ -725,11 +725,11 @@ build_time_vars = {'ABIFLAGS': 'm',
  'PYTHONFRAMEWORKINSTALLDIR': '',
  'PYTHONFRAMEWORKPREFIX': '',
  'PYTHONPATH': '',
- 'PYTHON_FOR_BUILD': '_PYTHON_PROJECT_BASE=/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build '
+ 'PYTHON_FOR_BUILD': '_PYTHON_PROJECT_BASE=/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build '
                      '_PYTHON_HOST_PLATFORM=$(_PYTHON_HOST_PLATFORM) '
                      'PYTHONPATH=$(shell test -f pybuilddir.txt && echo '
-                     '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build/`cat '
-                     'pybuilddir.txt`:)/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Lib '
+                     '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build/`cat '
+                     'pybuilddir.txt`:)/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Lib '
                      '_PYTHON_SYSCONFIGDATA_NAME=_sysconfigdata_m_linux_ '
                      'python',
  'PYTHON_FOR_REGEN': 'python3',
@@ -768,64 +768,64 @@ build_time_vars = {'ABIFLAGS': 'm',
                    '-Wno-missing-field-initializers -Wstrict-prototypes '
                    '-Werror=implicit-function-declaration -IObjects -IInclude '
                    '-IPython -I. '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Include '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Include '
                    '-fPIC '
                    '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot '
                    '-D__ANDROID_API__=21 -isystem '
                    '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
                    '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl  '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl  '
                    '-fPIC '
                    '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot '
                    '-D__ANDROID_API__=21 -isystem '
                    '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
                    '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-                   '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+                   '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl '
                    '-DPy_BUILD_CORE',
  'PY_CPPFLAGS': '-IObjects -IInclude -IPython -I. '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Include '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Include '
                 '-fPIC '
                 '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot '
                 '-D__ANDROID_API__=21 -isystem '
                 '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
                 '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl  '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl  '
                 '-fPIC '
                 '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot '
                 '-D__ANDROID_API__=21 -isystem '
                 '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
                 '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-                '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl',
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+                '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl',
  'PY_FORMAT_SIZE_T': '"z"',
  'PY_LDFLAGS': '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
                '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
                '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-               '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-               '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-               '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
+               '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+               '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+               '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1 '
                '-march=armv7-a -Wl,--fix-cortex-a8  '
                '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm '
                '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
                '-L/home/kobe/.buildozer/android/platform/android-ndk-r17c/platforms/android-21/arch-arm/usr/lib '
-               '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
-               '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
-               '-L/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1',
+               '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3/obj/local/armeabi-v7a '
+               '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/.libs '
+               '-L/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1',
  'PY_SSL_DEFAULT_CIPHERS': 1,
  'PY_SSL_DEFAULT_CIPHER_STRING': 0,
  'PY_STDMODULE_CFLAGS': '-mfloat-abi=softfp -mfpu=vfpv3-d16 -Wno-unused-result '
@@ -845,27 +845,27 @@ build_time_vars = {'ABIFLAGS': 'm',
                         '-Wstrict-prototypes '
                         '-Werror=implicit-function-declaration -IObjects '
                         '-IInclude -IPython -I. '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Include '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Include '
                         '-fPIC '
                         '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot '
                         '-D__ANDROID_API__=21 -isystem '
                         '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
                         '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl  '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl  '
                         '-fPIC '
                         '--sysroot=/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot '
                         '-D__ANDROID_API__=21 -isystem '
                         '/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi '
                         '-I/home/kobe/.buildozer/android/platform/android-ndk-r17c/sysroot/usr/include '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
-                        '-I/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl',
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/sqlite3/armeabi-v7a__ndk_target_21/sqlite3 '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi/include '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/internal '
+                        '-I/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/openssl/armeabi-v7a__ndk_target_21/openssl1.1/include/openssl',
  'Py_DEBUG': 0,
  'Py_ENABLE_SHARED': 1,
  'Py_HASH_ALGORITHM': 0,
@@ -902,7 +902,7 @@ build_time_vars = {'ABIFLAGS': 'm',
  'SIZEOF__BOOL': 1,
  'SOABI': 'cpython-37m',
  'SRCDIRS': 'Parser Objects Python Modules Programs',
- 'SRC_GDB_HOOKS': '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Tools/gdb/libpython.py',
+ 'SRC_GDB_HOOKS': '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Tools/gdb/libpython.py',
  'STDC_HEADERS': 1,
  'STRICT_SYSV_CURSES': "/* Don't use ncurses extensions */",
  'STRIPFLAG': '-s',
@@ -918,7 +918,7 @@ build_time_vars = {'ABIFLAGS': 'm',
  'TESTPYTHON': './python',
  'TESTPYTHONOPTS': '',
  'TESTRUNNER': './python '
-               '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Tools/scripts/run_tests.py',
+               '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Tools/scripts/run_tests.py',
  'TESTTIMEOUT': 1200,
  'TIMEMODULE_LIB': 0,
  'TIME_WITH_SYS_TIME': 1,
@@ -926,10 +926,10 @@ build_time_vars = {'ABIFLAGS': 'm',
  'UNICODE_DEPS': '\\',
  'UNIVERSALSDK': '',
  'UPDATE_FILE': 'python3 '
-                '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Tools/scripts/update_file.py',
+                '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/Tools/scripts/update_file.py',
  'USE_COMPUTED_GOTOS': 0,
  'VERSION': '3.7',
- 'VPATH': '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3',
+ 'VPATH': '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3',
  'WINDOW_HAS_FLAGS': 0,
  'WITH_DOC_STRINGS': 1,
  'WITH_DTRACE': 0,
@@ -940,9 +940,9 @@ build_time_vars = {'ABIFLAGS': 'm',
  'WITH_VALGRIND': 0,
  'X87_DOUBLE_ROUNDING': 0,
  'XMLLIBSUBDIRS': 'xml xml/dom xml/etree xml/parsers xml/sax',
- 'abs_builddir': '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build',
- 'abs_srcdir': '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3',
+ 'abs_builddir': '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3/android-build',
+ 'abs_srcdir': '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3',
  'datarootdir': '/usr/local/share',
  'exec_prefix': '/usr/local',
  'prefix': '/usr/local',
- 'srcdir': '/home/kobe/PycharmProjects/untitled/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3'}
+ 'srcdir': '/home/kobe/Desktop/Plant-Identification-App/visiontut/.buildozer/android/platform/build/build/other_builds/python3-libffi-openssl-sqlite3/armeabi-v7a__ndk_target_21/python3'}
